@@ -1,12 +1,13 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:     Activity 10.1
+# Name:        Activity 10.1
+# Purpose:     To investigate how the behaviour of the t statistic of a sample
+#              compares with the behaviour of the z statistic of the population.
 #
 # Author:      Safwan
 #
 # Created:     12/03/2025
 # Copyright:   (c) Safwan 2025
-# Licence:     <your licence>
+# Licence:     No liscence
 #-------------------------------------------------------------------------------
 
 def main():
